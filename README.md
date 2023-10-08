@@ -1,4 +1,4 @@
-<div>
+<div align="center">
  <img src="https://i.ibb.co/25Dmb9C/cover.png"/> 
 </div>
 <h1 align="center">Hi 👋, I'm Muhammad Omar Faruk</h1>
